@@ -1,0 +1,11 @@
+.intro__text {
+  margin: 32px 65px 0px 0px;
+  max-width: 720px;
+  max-height: 156px;
+  flex-wrap: wrap;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1rem;
+  line-height: 1.625;
+}

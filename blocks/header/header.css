@@ -1,7 +1,9 @@
 .header {
-    margin: 34px 505px 90px;
-    min-height: 44px;
-    height: 100%;
-    max-width: 984px;
-    width: 100%;
-  }
+  min-height: 44px;
+  max-width: 984px;
+  padding-top: 34px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 90px;
+
+}

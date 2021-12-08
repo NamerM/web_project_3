@@ -1,7 +1,9 @@
 .page {
-    min-width: 1280px;  /* 1280px + screens */
+    max-width: 1280px;  /* 1280px  */
     width: 100%;
     max-height: 7057px;
     height: 100%;
     background-color: #2A2C2F;
+    color: #ffffff;
+    overflow-x: hidden;
 }

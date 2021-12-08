@@ -1,0 +1,14 @@
+.photo-grid {
+  min-width: calc(100vw - 96px); /* 1184px; */
+  display: grid;
+  grid-template-columns: repeat(4, 284px);
+  grid-template-rows: repeat(2, 213px);
+  gap: 16px 16px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding:  0px 0px;
+  margin: 0px auto 90px;
+}
+
+

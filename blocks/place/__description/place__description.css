@@ -1,0 +1,6 @@
+.place__description {
+  margin: 0px;
+  padding-top: 0px;
+  display: grid;
+  grid-column: 2;
+}
