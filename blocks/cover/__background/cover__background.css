@@ -1,6 +1,0 @@
-.cover__background {
-  max-width: 100%;
-  z-index: 2;
-  filter: opacity(0.7);
-  background-image: url(/images/__background/__background-cover.png);
-}

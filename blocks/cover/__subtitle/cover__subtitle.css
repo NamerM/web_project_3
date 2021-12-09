@@ -10,9 +10,7 @@
   text-align: center;
   flex-wrap: wrap;
   z-index: 3;
-
-
-    /*position: absolute;
-    top: 7020px;
-    left: 524px;*/
+  padding-top: 0px;
+  margin-top: 32px;
+  margin-bottom: 32px;
 }

@@ -10,10 +10,10 @@
   line-height: 1.0416;
 }
 
-@media screen and (max-width: 720px){
+@media screen and (max-width: 768px){
   .lead__title {
     width: 720px;
     height: 300px;
-    margin: 0px;
+    margin: 90px auto 32px;
   }
 }

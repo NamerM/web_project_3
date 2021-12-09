@@ -1,7 +1,11 @@
-.place__rectangle {
+.place__link-rectangle {
   margin: 0px;
   padding: 0pxs;
   background-color: #0278FE;
   border-radius: 4px;
   z-index: 0;
+}
+
+.place__link-rectangle:hover {
+  background-color: #0063D2;
 }
