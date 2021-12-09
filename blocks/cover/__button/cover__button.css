@@ -1,16 +1,8 @@
 .cover__button {
-  max-width: 137px;
+  margin: 32px auto 243px;
   max-height: 48px;
+  padding: 0pxs;
   background-color: #0278FE;
-  z-index: 3;
-  font-family: "Inter", Arial, sans-serif;
-  font-style: normal;
-  font-weight: 600;
-  font-size: 18px;
-  line-height: 1.2222;
-
-
-
-
-
+  border-radius: 4px;
+  z-index: 0;
 }
