@@ -1,0 +1,5 @@
+.cover__background {
+  max-width: calc(100vw - 96px);
+  z-index: 2;
+  filter: opacity(0.7);
+}
