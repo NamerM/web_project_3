@@ -4,6 +4,7 @@
 
 
 /*Blocks*/
+
 @import url(../blocks/logo/logo-header.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/lead/lead.css);
@@ -13,7 +14,7 @@
 @import url(../blocks/place/place.css);
 @import url(../blocks/link/link.css);
 @import url(../blocks/cover/cover.css);
-@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/footer.css);
 
 /*Elements*/
 
@@ -48,3 +49,6 @@
 @import url(../blocks/cover/__button/cover__link.css);
 @import url(../blocks/cover/__button/cover__button.css);
 @import url(../blocks/cover/__effect/cover__effect.css);
+
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__link/footer__link.css);

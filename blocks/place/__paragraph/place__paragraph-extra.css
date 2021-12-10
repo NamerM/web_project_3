@@ -1,9 +1,7 @@
-.place__paragraph-extra {
-  display: grid;
-  grid-column: 1/4;
-  grid-row: 1/4;
-  grid-template-columns: 460px 484px;
-  grid-template-rows: 152px 460px 48px 26px;
-  gap: 48px 40px;
-  margin: 0px 0px -12px;
+
+@media screen and (max-width: 768px) {
+  .place__paragraph-extra {
+    margin-top: 10px;
+  }
 }
+

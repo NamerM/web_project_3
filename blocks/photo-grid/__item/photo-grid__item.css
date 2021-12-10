@@ -3,4 +3,12 @@
   -moz-box-sizing: border-box;
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
+
+/*@media screen and (max-width: 768px) {
+  .photo-grid__photo-item {
+  margin: 0;
+  padding: 0;
+  }
+}*/

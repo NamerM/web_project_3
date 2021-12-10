@@ -1,9 +1,27 @@
 .header {
-  min-height: 44px;
-  max-width: 984px;
+  /*min-height: 44px;
+  max-width: 984px;*/
   padding-top: 34px;
   display: flex;
   justify-content: center;
-  margin: 0 auto 90px;
+  /*margin: 0 auto 90px;*/
+}
 
+
+@media screen and (max-width: 540px) {
+  .header {
+    padding-top: 24px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .header {
+    padding-top: 21.5px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .header {
+    padding-top: 20px;
+  }
 }

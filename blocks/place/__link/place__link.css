@@ -3,17 +3,18 @@
   list-style-type: none;
   text-decoration: none;
   color: #ffffff;
-  display: grid;
-  grid-column: 1;
   grid-row: 3;
-  z-index: 1;
-  padding: 13px 20px;
-  max-height:48px;
+  grid-template-rows: auto;
+  z-index: 2;
   max-width: 208px;
+  max-height: 48px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
   line-height: 1.2222;
+  padding: 13px 20px;
 }
 
+
+/* @media rule no need here */

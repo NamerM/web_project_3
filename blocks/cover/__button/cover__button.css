@@ -6,9 +6,3 @@
   border-radius: 4px;
   z-index: 0;
 }
-
-
-.cover__button:hover {
-  cursor:default;
-  background-color: #0063D2;
-}

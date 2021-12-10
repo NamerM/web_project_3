@@ -2,9 +2,7 @@
   max-width: 1184px;
   max-height: 740px;
   z-index: 0;
-  background-image: url(/images/cover-view.jpg);
-  background-blend-mode:darken;
-  margin: 0;
+  background-image: url(../../../images/cover-view.jpg);
   padding: 0;
   display: flex;
   flex-direction: column;
