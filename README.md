@@ -1,19 +1,31 @@
-# Project 3: From Homeland to Homeland
+###Project 3: From Homeland to Homeland
 ### Overview  
-* Intro  
-* Figma  
-* Images  
+* Intro: Student View   
+* Images
+* Sources
   
-**Intro**    
-  
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
+**Intro: Student View**    
+
+In this project there were several showcases of the hometowns of Practicum's employees and mine. I spent a lot of good years in Ortakoy region. Witnessed it's development and becoming to a nish and beautiful place.
+
+For the project I invested more time than the others but mostly due to learning new tools, how to efficiently use them as well. Inspect tool became a friend andlet me control a lot of stuff, and provided me some insight for adding additional responsive layers.
+
+I had basic chockpoints for e.g. css background-image: had to use triple ../ to get the file to the required area properly. Cost me 2,5 hours or more in total of my initial project completion time.(46hrs+minor adjustments)
+
+Another stuck point was trying to use flex property for grid elements in Places, when grid take action it smoothly laid out.
+
+I had a chance to practice on a lot of subjects we learnt during our 3 sprints.
+After 35 hours of my project study my insight of detecting and correcting the errors increased.(Thanks to inspect tool).
+
+
+Theory lasted 14hrs and project took 44hrs.   
   
 **Images**  
   
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!  
+* [Some scenerey of lovely Istanbul](https://www.istockphoto.com/tr/search/2/image?phrase=ortak%C3%B6y)  
+Si Minor Ortakoy!
+
+**Resources**
+* [Some sources I check-up regularly for CSS](https://www.reddit.com/r/ProgrammerHumor/)
+
+** Enjoy the photos and the review! **

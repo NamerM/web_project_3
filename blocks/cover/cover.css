@@ -1,6 +1,30 @@
 .cover {
   margin: 92px auto;
   max-width: 1184px;
-  max-height: 740px;
   display: flex;
+}
+
+@media screen and (max-width: 768) {
+  .cover {
+    max-width: 100%;
+  }
+}
+
+@media screen and (max-width: 540) {
+  .cover {
+    margin: 80px;
+  }
+}
+
+
+@media screen and (max-width: 480) {
+  .cover {
+    margin: 72px;
+  }
+}
+
+@media screen and (max-width: 320) {
+  .cover {
+    margin: 64px;
+  }
 }

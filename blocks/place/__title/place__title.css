@@ -15,7 +15,27 @@
     font-size: 42px;
     line-height: 1.095;
     margin-right: 404px;
-    min-width: 12ch;
+    min-width: 340px;
+  }
+}
+
+@media screen and (max-width: 540px) {
+  .place__title {
+    grid-row-start: 1;
+    max-width: 373px;
+    margin: 50px 126px 0px;
+    font-size: 36px;
+    line-height: 1.09;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .place__title {
+    grid-row-start: 1;
+    max-width: 332px;
+    margin: 50px 96px 0px;
+    font-size: 34px;
+    line-height: 1.09;
   }
 }
 
