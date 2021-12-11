@@ -41,14 +41,14 @@
 @import url(../blocks/place/__link/place__link.css);
 @import url(../blocks/place/__link/place__link-rectangle.css);
 
-@import url(../blocks/cover/__content/cover__content.css);
+@import url(../blocks/cover/__item/cover__item.css);
 @import url(../blocks/cover/__background/cover__background.css);
+@import url(../blocks/cover/__overlay/cover__overlay.css);
 @import url(../blocks/cover/__title/cover__title.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__overlay/cover__overlay.css);
+@import url(../blocks/cover/__subtitle/cover__subtitle2.css);
 @import url(../blocks/cover/__button/cover__link.css);
 @import url(../blocks/cover/__button/cover__button.css);
-@import url(../blocks/cover/__effect/cover__effect.css);
 
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);

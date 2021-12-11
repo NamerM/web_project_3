@@ -1,7 +1,5 @@
 .cover__title {
   max-width: 656px;
-  max-height: 76px;
-  z-index: 3;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
@@ -11,6 +9,33 @@
   text-align: center;
   display: flex;
   align-self: center;
-  margin-top: 243px;
-  margin-bottom: 0px;
+  margin: 243px 264px 0px 264px;
+  z-index: 3;
+}
+
+
+@media screen and (max-width: 768) {
+  .cover {
+    margin-top: 246px 56px auto 56px;
+  }
+}
+
+@media screen and (max-width: 540) {
+  .cover {
+    margin: 80px;
+    margin: 59px 20px auto 20px;
+  }
+}
+
+
+@media screen and (max-width: 480) {
+  .cover {
+    margin: 53px 18px auto 18px;
+  }
+}
+
+@media screen and (max-width: 320) {
+  .cover {
+    margin: 46px 16px auto 16px;
+  }
 }

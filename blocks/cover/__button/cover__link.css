@@ -1,9 +1,8 @@
 .cover__link {
   max-width: 137px;
-  max-height: 48px;
   padding: 13px 20px;
   background-color: #0278FE;
-  z-index: 3;
+  z-index: 5;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
@@ -11,12 +10,10 @@
   line-height: 1.2222;
   color: #ffffff;
   text-decoration: none;
- /* opacity: 1;
-  transition: opacity 0.3s linear 0.25s;*/
 }
 
 
-.cover__link:hover {
+.group__link:hover {
   cursor: pointer;
   background-color: #0063D2;
 }
