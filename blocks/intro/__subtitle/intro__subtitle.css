@@ -38,38 +38,3 @@
   }
 }
 
-
-
-.intro__subtitle2 {
-  margin: 10px 16px 32px auto;
-}
-
-@media screen and (max-width: 768px ) {
-  .intro__subtitle2 {
-    margin-right: 24px;
-  }
-}
-
-@media screen and (max-width:3540) {
-  .intro__subtitle2 {
-    margin-top: 10px;
-    margin-right: 16px;
-  }
-}
-
-@media screen and (max-width:480) {
-  .intro__subtitle2 {
-    margin-top: 10px;
-    margin-right: 16px;
-  }
-}
-
-
-
-@media screen and (max-width:320) {
-  .intro__subtitle2 {
-    margin-top: 10px;
-    margin-right: 16px;
-  }
-}
-

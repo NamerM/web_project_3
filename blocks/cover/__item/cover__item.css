@@ -2,12 +2,16 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  width:100%;
-  height: 100%;
+  max-width: 100%;
+  /*background-image: url(../../../images/coverview.png);*/
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  z-index: 0;
   }
 
 
-/*
+
 @media screen and (max-width: 768px) {
   .cover__item {
     max-width: 768px;
@@ -26,15 +30,16 @@
   .cover__item {
     margin: 72px auto;
     max-width: 480px;
+    max-height: 100%;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__item {
-    margin: 64px auto;
+    margin: 15% auto;
     max-width: 320px;
     max-height: 254px;
   }
 }
-*/
+
 

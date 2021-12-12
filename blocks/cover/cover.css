@@ -1,28 +1,28 @@
 .cover {
   max-width: 1184px;
-  background-image: url(../../images/coverview.png);
-  opacity:0.7;
-  background-repeat: no-repeat;
-  background-position: center;
   display: flex;
   justify-content: center;
   background-size: cover;
-  position: relative;
   margin: 92px auto;
 }
 
+@media screen and (min-width: 769px) and (max-width: 926px) {
+  .cover {
+    margin: 200px auto;
+  }
+}
 
 @media screen and (max-width: 768) {
   .cover{
     margin: 90px auto;
-    max-width: 768px;
+    min-width: 768px;
   }
 }
 
 @media screen and (max-width: 540px) {
   .cover {
     margin: 80px auto;
-    max-width: 540px;
+    min-width: 540px;
   }
 }
 
@@ -30,13 +30,13 @@
 @media screen and (max-width: 480px) {
   .cover {
     margin: 72px auto;
-    max-width: 480px;
+    min-width: 480px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover {
     margin: 64px auto;
-    max-width: 320px;
+    min-width: 320px;
   }
 }

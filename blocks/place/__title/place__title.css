@@ -4,7 +4,7 @@
   grid-area: 1/1;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
-  font-weight: 900px;
+  font-weight: 900;
   font-size: 72px;
   line-height: 1.055;
   display:flex;
@@ -23,7 +23,7 @@
   .place__title {
     grid-row-start: 1;
     max-width: 373px;
-    margin: 50px 126px 0px;
+    margin: 50px auto 0px;
     font-size: 36px;
     line-height: 1.09;
   }
@@ -33,7 +33,7 @@
   .place__title {
     grid-row-start: 1;
     max-width: 332px;
-    margin: 50px 96px 0px;
+    margin: 50px 78px 0px;
     font-size: 34px;
     line-height: 1.09;
   }

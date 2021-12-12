@@ -1,0 +1,41 @@
+.intro__quote-author {
+  width:720px;
+  margin: 10px 16px 32px 0px;
+  font-family: "Inter", Arial, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 1.4166;
+  text-align: right;
+}
+
+@media screen and (max-width: 768px ) {
+  .intro__quote-author {
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width:540px) {
+  .intro__quote-author {
+    max-width: 510px;
+    margin-top: 10px;
+  }
+}
+
+@media screen and (max-width:480px) {
+  .intro__quote-author {
+    max-width: 412px;
+    margin-top: 10px;
+  }
+}
+
+
+
+@media screen and (max-width:320px) {
+  .intro__quote-author {
+    max-width: 320px;
+    margin-top: 10px;
+    margin-right: 16px;
+  }
+}
+
