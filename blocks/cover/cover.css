@@ -1,7 +1,6 @@
 .cover {
   max-width: 1184px;
-  max-height: 740px;
-  background-image: url(../../../images/cover-view.png);
+  background-image: url(../../images/coverview.png);
   opacity:0.7;
   background-repeat: no-repeat;
   background-position: center;
@@ -14,30 +13,30 @@
 
 
 @media screen and (max-width: 768) {
-  .cover__item {
+  .cover{
+    margin: 90px auto;
     max-width: 768px;
   }
 }
 
-@media screen and (max-width: 540) {
-  .cover__item {
+@media screen and (max-width: 540px) {
+  .cover {
     margin: 80px auto;
     max-width: 540px;
   }
 }
 
 
-@media screen and (max-width: 480) {
-  .cover__item {
+@media screen and (max-width: 480px) {
+  .cover {
     margin: 72px auto;
     max-width: 480px;
   }
 }
 
-@media screen and (max-width: 320) {
-  .cover__item {
+@media screen and (max-width: 320px) {
+  .cover {
     margin: 64px auto;
     max-width: 320px;
-    max-height: 254px;
   }
 }

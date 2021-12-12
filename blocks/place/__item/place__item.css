@@ -5,8 +5,8 @@
   display: grid;
   grid-column: 1/2;
   grid-row: 1/4;
-  grid-template-columns: 460px 1fr ;
-  grid-template-rows: 152px 460px 48px ;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: 152px 460px 48px;
   gap: 48px 40px;
   margin: 0px 0px -12px;
 }
