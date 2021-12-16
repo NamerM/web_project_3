@@ -1,5 +1,6 @@
 .place__image {
   max-width: 460px;
+  width:100%;
   grid-column: 1;
   grid-row: 2;
 }
@@ -7,30 +8,26 @@
 @media screen and (max-width: 768px) {
   .place__image {
     max-width: 340px;
-    object-fit: scale-down;
+    object-fit: cover;
   }
 }
 
 @media screen and (max-width: 540px) {
   .place__image {
     max-width: 325px;
-    grid-row:3/4;
-    margin: 30px auto 0px;
+    grid-row: 3/4;
   }
 }
 
 @media screen and (max-width: 480px) {
   .place__image {
     max-width: 320px;
-    grid-row:3/4;
-    margin: 30px auto 0px;
+    width: 100%;
   }
 }
-
+/*
 @media screen and (max-width: 320px) {
   .place__image {
-    max-width: 320px;
-    grid-row:3/4;
-    margin: 30px 0px 0px;
+    margin: 0px;
   }
-}
+}*/

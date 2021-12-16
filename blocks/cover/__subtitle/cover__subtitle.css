@@ -7,7 +7,6 @@
   font-size: 18px;
   line-height: 1.2222;
   text-align: center;
-  flex-wrap: wrap;
   padding-top: 0px;
   margin: 32px auto 32px;
 }
@@ -15,7 +14,6 @@
 
 @media screen and (max-width: 768px) {
   .cover__subtitle {
-    margin: 32px auto 32px auto;
     max-width: 280px;
   }
 }
@@ -30,16 +28,13 @@
 
 @media screen and (max-width: 480px) {
   .cover__subtitle {
-    font-size:14px;
     margin: 10px auto;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover__subtitle {
-    font-size:14px;
-    margin: 8px auto;
-
+    margin: 16px auto;
   }
 }
 

@@ -1,4 +1,11 @@
 .footer {
-  margin: auto auto 24px;
-  position: relative;
+  margin: 0px auto 24px;
 }
+
+
+/*@media screen and (max-width: 768px) {
+  .footer {
+    margin-top: 334px;
+  }
+}
+*/

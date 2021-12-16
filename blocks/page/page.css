@@ -1,5 +1,4 @@
 .page {
-    min-width: 1280px;
     background-color: #2A2C2F;
     color: #ffffff;
     font-family: "Inter", "Arial" , "sans-serif";
@@ -7,30 +6,6 @@
     font-weight: normal;
     -moz-osx-font-smoothing: auto;
     -webkit-font-smoothing: antialiased;
+    margin: 0 auto;
 }
 
-
-@media screen and (min-width: 768px) {
-  .page {
-    min-width: 768px;
-
-  }
-}
-
-@media screen and (min-width: 540px) {
-  .page {
-    min-width: 540px;
-  }
-}
-
-@media screen and (min-width: 480px) {
-  .page {
-    min-width: 480px;
-  }
-}
-
-@media screen and (min-width: 320px) {
-  .page {
-    min-width: 320px;
-  }
-}

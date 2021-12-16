@@ -5,8 +5,8 @@
   display: grid;
   grid-column: 1/3;
   grid-row: 1/4;
-  grid-template-columns: 460px 1fr;
-  grid-template-rows: 152px 460px 48px;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: min-content min-content 1fr;
   gap: 48px 40px;
   margin: 0px 0px;
 }
@@ -15,10 +15,7 @@
   .place__item {
   grid-column: 1/2;
   grid-row: 1/5;
-  grid-template-columns: 340px 352px;
-  grid-template-rows: auto 340px 48px auto 72px;
   gap: 48px 24px;
-  margin: 90px 24px 72px;
   }
 }
 
@@ -35,7 +32,6 @@
   .place__item {
   grid-template-columns: 480px;
   grid-template-rows: repeat(5, auto);
-  margin: 0px 0px;
   row-gap:34px;
   }
 }
@@ -44,7 +40,6 @@
   .place__item {
   grid-template-columns: 320px;
   grid-template-rows: repeat(5, auto);
-  margin: 0px 0px;
   row-gap:30px;
   }
 }

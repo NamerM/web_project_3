@@ -1,6 +1,5 @@
 .place__title {
-  margin-top: 0px;
-  margin-right: 672px;
+  margin: 0px;
   grid-area: 1/1;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
@@ -8,14 +7,15 @@
   font-size: 72px;
   line-height: 1.055;
   display:flex;
+  align-self: flex-end;
+  letter-spacing: initial;
 }
 
 @media screen and (max-width: 768px ) {
   .place__title {
     font-size: 42px;
     line-height: 1.095;
-    margin-right: 404px;
-    min-width: 340px;
+    margin-bottom: 0px;
   }
 }
 
@@ -33,7 +33,7 @@
   .place__title {
     grid-row-start: 1;
     max-width: 332px;
-    margin: 50px 78px 0px;
+    margin: 50px 20px 0px;
     font-size: 34px;
     line-height: 1.09;
   }
@@ -42,8 +42,9 @@
 @media screen and (max-width: 320px) {
   .place__title {
     grid-row-start: 1;
-    max-width: 288px;
-    margin: 50px 16px 0px;
+    max-width:320px;
+    margin: 50px auto 0px 16px;
+    white-space: pre-line;
     font-size: 32px;
     line-height: 1.09;
   }

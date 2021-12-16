@@ -2,13 +2,12 @@
   margin-top: 0px;
   margin-bottom: 0px;
   padding: 0;
-  min-width: 288px;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
   line-height: 1.222;
-  letter-spacing: 0.12em;
+  letter-spacing: initial;
   color:  #FFFFFF;
 }
 
@@ -26,7 +25,7 @@
 
 @media screen and (max-width: 480px) {
   .place__artist {
-    margin: 9px auto 0px 78px;
+    margin: 9px auto 0px 20px;
   }
 }
 

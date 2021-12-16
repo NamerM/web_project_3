@@ -13,7 +13,7 @@
 }
 
 
-.group__link:hover {
+.cover__link:hover {
   cursor: pointer;
   background-color: #0063D2;
 }

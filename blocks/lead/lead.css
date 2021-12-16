@@ -14,19 +14,19 @@
 
 @media screen and (max-width:540px) {
   .lead{
-    margin: 65px 20px 45px;
+    margin: 0px 20px 45px;
   }
 }
 
 @media screen and (max-width:480px) {
   .lead{
-    margin: 57.75px 18px 46px;
+    margin: 0px 18px 46px;
   }
 }
 
 @media screen and (max-width:320px) {
   .lead{
-    margin: 50px 16px 40px;
+    margin: 0px 16px 40px;
   }
 }
 

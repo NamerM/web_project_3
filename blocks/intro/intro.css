@@ -1,18 +1,13 @@
 .intro {
-  margin-top: 0px;
-  margin-bottom: 118px;
-  margin-left: 148px;
   display: flex;
   flex-direction: column;
-  max-width: 785px;
-  width: 100%;
-  margin: 90px auto 118px;
+  margin: 90px auto 118px calc((100% - 984px) / 2);
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1100px) {
   .intro {
     max-width: 720px;
-    margin: 90px auto 90px;
+    margin: 90px 24px;
   }
 }
 
@@ -32,7 +27,7 @@
 
 @media screen and (max-width: 320px) {
   .intro {
-    max-width: 720px;
+    max-width: 320px;
     max-height: 5296px;
     margin: 90px auto 90px;
   }

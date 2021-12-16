@@ -4,30 +4,30 @@
   max-width: 987px;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 768px) {
   .places {
-    margin: 0px auto 72px;
+    margin: 0px 24px 72px;
     max-width: 720px;
   }
 }
 
 @media screen and (max-width: 540px) {
   .places {
-    margin: 0px auto 64px;
+    margin: 0px 20px 64px;
     max-width: 540px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .places {
-    margin: 0px auto 57px;
+    margin: 0px 18px 57px;
     max-width: 480px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .places {
-    margin: 0px auto 0px;
+    margin: 0px 16px 0px;
     max-width: 320px;
   }
 }
