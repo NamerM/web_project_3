@@ -13,29 +13,24 @@
 @media screen and (max-width: 768px ) {
   .intro__subtitle {
     margin: 10px auto 0px;
-    width: 720px;
   }
 }
 
-
+/*
 @media screen and (max-width: 540px ) {
   .intro__subtitle {
     margin: 10px auto 0px;
-    max-width: 374px;
-    width:100%;
   }
 }
 
 @media screen and (max-width: 480px ) {
   .intro__subtitle {
     margin: 10px auto 0px;
-    max-width: 332px;
   }
 }
 
 @media screen and (max-width: 320px ) {
   .intro__subtitle {
-    max-width: 288px;
   }
-}
+}*/
 
