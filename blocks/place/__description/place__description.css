@@ -18,9 +18,10 @@
   .place__description {
 
   }
-}
+}*/
 
 @media screen and (max-width: 320px) {
   .place__description {
+    margin: 0px 16px 0px;
   }
-}*/
+}
