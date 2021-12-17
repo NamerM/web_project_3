@@ -10,7 +10,7 @@
   background-image: url(./../../images/coverview.png);
   background-repeat: no-repeat;
   background-position: center;
-  position: relative;
+  position: absolute;
   z-index: 0;
 }
 
