@@ -18,19 +18,17 @@
 
 @media screen and (max-width: 540px) {
   .intro__text {
-    max-width: 472px;
-    margin: 32px auto 0px;
+    margin: 32px 16px 0px;
   }
 }
-
+/*
 @media screen and (max-width: 480px) {
   .intro__text {
-    max-width: 332px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .intro__text {
-    max-width: 288px;
   }
 }
+*/

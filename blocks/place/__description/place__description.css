@@ -9,19 +9,16 @@
 /*
 @media screen and (max-width: 540px) {
   .place__description {
-    grid-column: 1;
-    grid-row-start: 4;
   }
 }
 
 @media screen and (max-width: 480px) {
   .place__description {
-
   }
-}*/
+}
 
 @media screen and (max-width: 320px) {
   .place__description {
-    margin: 0px 16px 0px;
   }
 }
+*/

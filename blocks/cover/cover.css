@@ -23,19 +23,18 @@
 
 @media screen and (max-width: 540px) {
   .cover {
-    margin: 80px auto;
+    margin: 64px 0px;
   }
 }
 
-
+/*
 @media screen and (max-width: 480px) {
   .cover {
-    margin: 72px auto;
   }
 }
 
 @media screen and (max-width: 320px) {
   .cover {
-    margin: 64px auto;
   }
 }
+*/

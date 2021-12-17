@@ -16,19 +16,16 @@
 @media screen and (max-width: 540px) {
   .place__link-rectangle {
     grid-row: 5;
-    max-width: 288px;
-    margin: 0px auto 0px;
     padding: 13px 20px;
   }
 }
 @media screen and (max-width: 480px) {
   .place__link-rectangle {
     grid-row: 5;
-    max-width: 288px;
-    margin: 0px auto 0px;
     padding: 13px 20px;
   }
 }
+/*
 @media screen and (max-width: 320px) {
   .place__link-rectangle {
     grid-row: 5;
@@ -36,3 +33,4 @@
     padding: 13px 20px;
   }
 }
+*/

@@ -23,6 +23,7 @@
   .place__item {
   display: flex;
   flex-direction: column ;
+  gap: 30px;
   }
 }
 

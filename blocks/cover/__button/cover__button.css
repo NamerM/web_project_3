@@ -6,19 +6,18 @@
 
 @media screen and (max-width: 540px) {
   .cover__button {
-    margin: 0px auto 57px;
+    margin-bottom: 25px;
   }
 }
 
+/*
 @media screen and (max-width:480px) {
   .cover__button {
-    margin: 0px auto 51px;
   }
 }
 
 
 @media screen and (max-width: 320px) {
   .cover__button {
-    margin: auto auto;
   }
 }
