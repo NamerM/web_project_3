@@ -21,9 +21,8 @@
 
 @media screen and (max-width: 540px) {
   .place__title {
-    grid-row-start: 1;
-    max-width: 373px;
-    margin: 50px auto 0px;
+    align-self: flex-start;
+    margin: 50px 0px 0px;
     font-size: 36px;
     line-height: 1.09;
   }
@@ -31,9 +30,6 @@
 
 @media screen and (max-width: 480px) {
   .place__title {
-    grid-row-start: 1;
-    max-width: 332px;
-    margin: 50px 20px 0px;
     font-size: 34px;
     line-height: 1.09;
   }
@@ -41,9 +37,6 @@
 
 @media screen and (max-width: 320px) {
   .place__title {
-    grid-row-start: 1;
-    max-width:320px;
-    margin: 50px auto 0px 16px;
     white-space: pre-line;
     font-size: 32px;
     line-height: 1.09;

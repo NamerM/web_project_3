@@ -21,11 +21,12 @@
 
 @media screen and (max-width: 540px) {
   .place__item {
-  grid-template-columns: 1fr;
-  row-gap:38px;
+  display: flex;
+  flex-direction: column ;
   }
 }
 
+/*
 @media screen and (max-width: 480px) {
   .place__item {
   row-gap:34px;
@@ -36,4 +37,4 @@
   .place__item {
   row-gap:30px;
   }
-}
+}*/

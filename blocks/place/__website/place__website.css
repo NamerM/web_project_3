@@ -10,22 +10,18 @@
 
 @media screen and (max-width: 540px) {
   .place__website {
-  grid-row: 2/3;
-  grid-column: 1;
+    justify-content: flex-start;
   }
 }
 
+/*
 
 @media screen and (max-width: 480px) {
   .place__website {
-  grid-row: 2/3;
-  grid-column: 1;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__website {
-  grid-row: 2/3;
-  grid-column: 1;
   }
-}
+}*/
