@@ -21,25 +21,19 @@
 
 @media screen and (max-width: 540px) {
   .place__item {
-  grid-template-columns: 540px;
-  grid-template-rows: repeat(5, auto);
-  margin: 0px 0px;
+  grid-template-columns: 1fr;
   row-gap:38px;
   }
 }
 
 @media screen and (max-width: 480px) {
   .place__item {
-  grid-template-columns: 480px;
-  grid-template-rows: repeat(5, auto);
   row-gap:34px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .place__item {
-  grid-template-columns: 320px;
-  grid-template-rows: repeat(5, auto);
   row-gap:30px;
   }
 }
