@@ -15,7 +15,25 @@
   line-height: 1.2222;
   padding: 13px 20px;
   text-align: center;
+  background-color: #0278FE;
+  box-sizing: border-box;
+  border-radius: 4px;
+  z-index: 0;
+  grid-row: 3;
+  max-height: 48px;
 }
+
+.place__link-rectangle:hover {
+  background-color: #0063D2;
+  cursor: pointer;
+}
+
+@media screen and (max-width: 540px) {
+  .place__link-rectangle {
+    grid-row: 5;
+  }
+}
+
 
 /*
 @media screen and (max-width: 320px) {
