@@ -1,7 +1,6 @@
 .cover__link {
   max-width: 137px;
   padding: 13px 20px;
-  background-color: #0278FE;
   z-index: 5;
   font-family: "Inter", Arial, sans-serif;
   font-style: normal;
@@ -10,6 +9,15 @@
   line-height: 1.2222;
   color: #ffffff;
   text-decoration: none;
+  margin: 0px auto 240px;
+  background-color: #0278FE;
+  border-radius: 4px;
+}
+
+@media screen and (max-width: 540px) {
+  .cover__link {
+    margin-bottom: 25px;
+  }
 }
 
 
