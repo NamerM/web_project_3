@@ -22,20 +22,9 @@
 @media screen and (max-width: 540px) {
   .place__item {
   display: flex;
-  flex-direction: column ;
+  flex-direction: column;
   gap: 30px;
   }
 }
 
-/*
-@media screen and (max-width: 480px) {
-  .place__item {
-  row-gap:34px;
-  }
-}
 
-@media screen and (max-width: 320px) {
-  .place__item {
-  row-gap:30px;
-  }
-}*/

@@ -18,9 +18,6 @@
   background-color: #0278FE;
   box-sizing: border-box;
   border-radius: 4px;
-  z-index: 0;
-  grid-row: 3;
-  max-height: 48px;
 }
 
 .place__link-rectangle:hover {

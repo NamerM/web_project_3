@@ -1,5 +1,6 @@
 .cover__link {
   max-width: 137px;
+  margin: 0px auto 240px;  /*125px*/
   padding: 13px 20px;
   z-index: 5;
   font-family: "Inter", Arial, sans-serif;
@@ -9,11 +10,17 @@
   line-height: 1.2222;
   color: #ffffff;
   text-decoration: none;
-  margin: 0px auto 240px;
   background-color: #0278FE;
   border-radius: 4px;
   align-items: center;
 }
+/*
+@media screen and (max-width: 768px) {
+  .cover__link {
+    margin: 0px auto 125px;
+  }
+}*/
+
 
 @media screen and (max-width: 540px) {
   .cover__link {
