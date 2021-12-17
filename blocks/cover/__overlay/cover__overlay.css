@@ -3,7 +3,8 @@
   background-size: cover;
   opacity: 0.7;
   transition: opacity 0.8s linear 0.25s;
-  position: absolute;
+  width: 100%;
+  position: relative;
 }
 .cover:hover .cover__overlay {
   opacity: 0.2;
