@@ -1,5 +1,12 @@
 .footer {
   margin: 0px auto 24px;
+  text-align: center;
+  font-family: "Inter", "Arial", sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 1.1428;
+  z-index: 2;
 }
 
 
