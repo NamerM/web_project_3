@@ -19,13 +19,13 @@
     padding: 13px 20px;
   }
 }
+/*
 @media screen and (max-width: 480px) {
   .place__link-rectangle {
-    grid-row: 5;
-    padding: 13px 20px;
+
   }
 }
-/*
+
 @media screen and (max-width: 320px) {
   .place__link-rectangle {
     grid-row: 5;

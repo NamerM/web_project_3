@@ -23,7 +23,7 @@
 
 @media screen and (max-width: 768px) {
   .cover__title {
-    margin: 222px 56px 0px 0px;
+    margin: 222px 0px 0px 0px;
   }
 }
 
@@ -40,7 +40,7 @@
   .cover__title {
     font-size: 34px;
     line-height: 1.1;
-    margin: 53px 18px auto 18px;
+    margin: 53px 16px 18px;
   }
 }
 
@@ -50,6 +50,6 @@
     line-height: 1.1;
     max-width:288px;
     width: 100%;
-    margin: 46px auto 0px;
+    margin: 46px 16px 0px;
   }
 }

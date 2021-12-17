@@ -8,6 +8,9 @@
   letter-spacing: initial;
 }
 
+.place__paragraph:last-child {
+  margin:0px 0px;
+}
 
 @media screen and (max-width: 768px) {
   .place__paragraph {
