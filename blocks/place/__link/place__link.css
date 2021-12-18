@@ -6,7 +6,7 @@
   grid-row: 3;
   grid-template-rows: auto;
   z-index: 2;
-  max-width: 288px;
+  max-width: 248px;
   max-height: 48px;
   font-family: "Inter", Arial, sans-serif;
   font-style:normal;
@@ -30,11 +30,3 @@
     grid-row: 5;
   }
 }
-
-
-/*
-@media screen and (max-width: 320px) {
-  .place__link {
-    font-size: 14px;
-  }
-}*/
