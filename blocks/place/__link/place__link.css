@@ -20,13 +20,13 @@
   border-radius: 4px;
 }
 
-.place__link-rectangle:hover {
+.place__link:hover {
   background-color: #0063D2;
   cursor: pointer;
 }
 
 @media screen and (max-width: 540px) {
-  .place__link-rectangle {
+  .place__link {
     grid-row: 5;
   }
 }
