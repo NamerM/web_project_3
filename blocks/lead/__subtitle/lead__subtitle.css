@@ -11,7 +11,6 @@
 
 @media screen and (max-width: 768px) {
   .lead__subtitle {
-    max-width: 720px;
     margin: 0px auto 36px;
   }
 }
@@ -19,9 +18,7 @@
 @media screen and (max-width:540px) {
   .lead__subtitle {
     max-width: 370px;
-    max-height: 171px;
     font-size: 20px;
-    line-height: 1.2;
     margin: 0px 0px 40px;
   }
 }
@@ -29,19 +26,14 @@
 @media screen and (max-width: 480px) {
   .lead__subtitle {
     max-width: 330px;
-    max-height: 152px;
     font-size: 18px;
     line-height: 1.25;
-    margin: 0px 0px 40px;
   }
 }
 
 @media screen and (max-width: 320px) {
   .lead__subtitle {
     max-width: 288px;
-    max-height: 132px;
     font-size: 16px;
-    line-height: 1.25;
-    margin: 0px 0px 40px;
   }
 }

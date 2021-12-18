@@ -10,26 +10,3 @@
   letter-spacing: initial;
   color:  #FFFFFF;
 }
-
-@media screen and (max-width: 768px) {
-  .place__artist {
-   font-size: 18px;
-  }
-}
-
-/*
-@media screen and (max-width: 540px) {
-  .place__artist {
-  }
-}
-/*
-@media screen and (max-width: 480px) {
-  .place__artist {
-  }
-}
-
-
-@media screen and (max-width: 320px) {
-  .place__artist {
-  }
-}*/

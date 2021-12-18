@@ -9,17 +9,8 @@
   line-height: 1.055;
   color: #FFFDFD;
   text-align: center;
-  /*display: flex;
-  align-self: center;*/
   z-index: 3;
-
 }
-
-/*
-@media screen and (min-width: 769px) and (max-width: 926px) {
-  .cover__title {
-  }
-}*/
 
 @media screen and (max-width: 768px) {
   .cover__title {

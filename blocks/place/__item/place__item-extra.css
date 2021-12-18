@@ -1,7 +1,0 @@
-.place__item-extra {
-  grid-column: 1/2;
-  grid-row: 1/5;
-  grid-template-columns: 340px 352px;
-  grid-template-rows: auto 340px 48px auto 72px;
-  gap: 48px 24px;
-}
