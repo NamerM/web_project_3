@@ -6,21 +6,6 @@
 
 @media screen and (max-width:540px) {
   .logo-header {
-    max-height: 259px;
-    max-height: 67.5px;
-  }
-}
-
-
-@media screen and (max-width:480px) {
-  .logo-header {
-    max-height: 230px;
-    max-height: 60px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .logo-header {
     max-height: 200px;
     max-height: 51.5px;
   }
