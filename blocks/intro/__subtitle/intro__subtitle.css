@@ -19,18 +19,14 @@
 
 @media screen and (max-width: 540px ) {
   .intro__subtitle {
-    margin: 10px 16px 0px;
+    max-width: 288px;
   }
 }
 
 /*
-@media screen and (max-width: 480px ) {
-  .intro__subtitle {
-    margin: 10px auto 0px;
-  }
-
 @media screen and (max-width: 320px ) {
   .intro__subtitle {
-  }
-}*/
 
+  }
+}
+*/
