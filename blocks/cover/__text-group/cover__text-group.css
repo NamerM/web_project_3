@@ -1,7 +1,9 @@
 .cover__text-group {
   display: flex;
   flex-direction: column;
+  justify-content: space-between;
   align-items: center;
   z-index: 2;
+  max-width:100%;
 }
 
