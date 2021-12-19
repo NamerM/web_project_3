@@ -3,7 +3,7 @@
   position: relative;
   max-width: 1184px;
   width: 100%;
-  min-height: 740px;
+  height: 740px;
   /*height: 100%;*/
   display: flex;
   justify-content: center;
@@ -17,8 +17,8 @@
 .cover::before {
   content:"";
   position: absolute;
-  /*top: 0;
-  left: 0;*/
+  top: 0;
+  left: 0;
   z-index: 1;
   background-color: #2A2C2F;
   background-size: cover;
