@@ -28,16 +28,11 @@
   }
 }
 
-@media screen and (max-width: 540px) {
-  .cover {
-    margin: 64px 0px 64px;
-    min-height: 290px;
-  }
-}
 
 @media screen and (max-width: 320px) {
   .cover {
-    min-height: 275px;
+    min-height: 254px;
+    margin:  64px 0px;
   }
 }
 
