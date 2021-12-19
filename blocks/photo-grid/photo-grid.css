@@ -31,8 +31,6 @@
 @media screen and (max-width: 480px) {
   .photo-grid {
     margin: 0px 16px 68px;
-    /*grid-template-columns: auto;
-    grid-template-rows: repeat(8, auto);*/
     gap: 12px;
   }
 }
@@ -40,6 +38,7 @@
 @media screen and (max-width: 320px) {
   .photo-grid {
     margin: 0px 12px 60px;
+    max-width:320px;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(8, 1fr);
   }
