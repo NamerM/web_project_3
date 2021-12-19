@@ -2,7 +2,6 @@
   max-width: 1184px;/*calc(100vw - 96px); */
   display: grid;
   grid-template-columns: repeat(4, auto);
-  grid-template-rows: repeat(2, auto);
   gap: 16px 16px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
@@ -16,8 +15,6 @@
   .photo-grid {
     margin: 0px 24px 88px;
     grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(4, 1fr);
-    gap: 16px 16px;
   }
 }
 
@@ -27,20 +24,12 @@
   }
 }
 
-
-@media screen and (max-width: 480px) {
-  .photo-grid {
-    margin: 0px 16px 68px;
-    gap: 12px;
-  }
-}
-
 @media screen and (max-width: 320px) {
   .photo-grid {
-    margin: 0px 12px 60px;
+    margin: 0px 16px 62px;
     max-width:320px;
     grid-template-columns: 1fr;
-    grid-template-rows: repeat(8, 1fr);
+    gap: 12px;
   }
 }
 
