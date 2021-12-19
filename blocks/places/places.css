@@ -11,6 +11,13 @@
 }
 
 
+@media screen and (max-width: 320px) {
+  .places {
+    margin: 0px 0px 50px;
+    max-width: 320px;
+  }
+}
+
 /*
 @media screen and (max-width: 540px) {
   .places {
@@ -27,10 +34,4 @@
 }
 
 
-@media screen and (max-width: 320px) {
-  .places {
-    margin: 0px 16px 50px;
-    max-width: 320px;
-  }
-}
 */
